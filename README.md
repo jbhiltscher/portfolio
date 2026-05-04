@@ -1,6 +1,6 @@
 # Portfolio — Linux Final Project
 
-A data-processing pipeline built for BYU Stat 125 (Introduction to Linux / Data Science).
+A data-processing pipeline built for BYU Stats Class (Introduction to Linux / Data Science).
 The project automates the scoring and domain-categorisation of multiple-choice exam responses using Bash, R, and AWK.
 
 ---
